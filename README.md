@@ -2,8 +2,6 @@
 
 This project demonstrates how to build a **Convolutional Neural Network (CNN)** to perform **binary image classification**. The goal is to train a model to recognize and classify images into two distinct categories. The model uses deep learning techniques in Python, leveraging **TensorFlow** and **Keras**.
 
-This project was completed as part of the **Big Data Analytics PGDM** program at **FORE School of Management**.
-
 ---
 
 ##  Objective
